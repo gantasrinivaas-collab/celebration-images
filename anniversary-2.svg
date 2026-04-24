@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0FFF4"/>
+      <stop offset="100%" stop-color="#D4F5E2"/>
+    </linearGradient>
+    <linearGradient id="trophy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE566"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#78350F"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="480" fill="url(#bg)" rx="16"/>
+
+  <!-- Trophy cup body -->
+  <path d="M170 130 L160 240 Q160 290 240 300 Q320 290 320 240 L310 130 Z" fill="url(#trophy)"/>
+  <!-- Trophy shine -->
+  <path d="M185 145 L180 220 Q182 250 200 265" stroke="white" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.35"/>
+
+  <!-- Trophy handles -->
+  <path d="M170 155 Q120 160 115 200 Q112 235 165 240" stroke="url(#trophy)" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M310 155 Q360 160 365 200 Q368 235 315 240" stroke="url(#trophy)" stroke-width="18" fill="none" stroke-linecap="round"/>
+
+  <!-- Trophy stem -->
+  <rect x="222" y="298" width="36" height="50" rx="4" fill="#F59E0B"/>
+
+  <!-- Trophy base -->
+  <rect x="175" y="346" width="130" height="24" rx="6" fill="url(#base)"/>
+  <rect x="190" y="366" width="100" height="14" rx="4" fill="url(#base)"/>
+
+  <!-- Star on trophy -->
+  <polygon points="240,170 248,196 276,196 254,212 262,238 240,223 218,238 226,212 204,196 232,196" fill="#FFF5CC" opacity="0.85"/>
+
+  <!-- Rays from trophy -->
+  <line x1="240" y1="80" x2="240" y2="115" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="280" y1="88" x2="268" y2="118" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="200" y1="88" x2="212" y2="118" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="315" y1="105" x2="298" y2="130" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <line x1="165" y1="105" x2="182" y2="130" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Sparkles -->
+  <text x="60" y="140" font-size="26" fill="#F59E0B" opacity="0.8">✦</text>
+  <text x="390" y="150" font-size="22" fill="#10B981" opacity="0.8">✦</text>
+  <text x="75" y="320" font-size="20" fill="#10B981" opacity="0.7">★</text>
+  <text x="388" y="315" font-size="22" fill="#F59E0B" opacity="0.7">★</text>
+  <text x="170" y="55" font-size="16" fill="#F59E0B" opacity="0.7">★</text>
+  <text x="300" y="58" font-size="18" fill="#10B981" opacity="0.6">★</text>
+
+  <!-- Confetti -->
+  <rect x="45" y="220" width="13" height="6" rx="2" fill="#F59E0B" opacity="0.7" transform="rotate(25,51,223)"/>
+  <rect x="418" y="240" width="13" height="6" rx="2" fill="#10B981" opacity="0.7" transform="rotate(-30,424,243)"/>
+  <rect x="90" y="410" width="11" height="5" rx="2" fill="#F59E0B" opacity="0.6" transform="rotate(40,95,412)"/>
+  <rect x="380" y="420" width="11" height="5" rx="2" fill="#10B981" opacity="0.6" transform="rotate(-20,385,422)"/>
+  <circle cx="55" cy="390" r="7" fill="#F59E0B" opacity="0.5"/>
+  <circle cx="430" cy="380" r="6" fill="#10B981" opacity="0.5"/>
+  <circle cx="140" cy="430" r="5" fill="#F59E0B" opacity="0.5"/>
+  <circle cx="350" cy="435" r="5" fill="#10B981" opacity="0.5"/>
+
+  <!-- Text -->
+  <text x="240" y="420" font-family="Georgia, serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#065F46" letter-spacing="1">Work Anniversary</text>
+  <text x="240" y="456" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#F59E0B" opacity="0.95">Celebrating your excellence 🏆</text>
+</svg>

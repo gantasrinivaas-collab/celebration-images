@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8F4FD"/>
+      <stop offset="100%" stop-color="#D4EDFC"/>
+    </linearGradient>
+    <linearGradient id="hat" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F72585"/>
+      <stop offset="100%" stop-color="#7209B7"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="480" fill="url(#bg)" rx="16"/>
+
+  <!-- Streamers -->
+  <path d="M60 40 Q80 80 60 120 Q40 160 65 200 Q90 240 70 280" stroke="#F72585" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M420 50 Q400 100 425 140 Q450 180 425 220 Q400 260 420 300" stroke="#FFD166" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M100 30 Q130 70 110 110 Q90 150 120 185" stroke="#4361EE" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M380 40 Q350 80 370 120 Q390 155 365 188" stroke="#90BE6D" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Party hat -->
+  <polygon points="240,90 180,290 300,290" fill="url(#hat)" opacity="0.95"/>
+  <!-- Hat stripes -->
+  <line x1="210" y1="140" x2="270" y2="140" stroke="white" stroke-width="3" opacity="0.3"/>
+  <line x1="197" y1="180" x2="283" y2="180" stroke="white" stroke-width="3" opacity="0.3"/>
+  <line x1="188" y1="220" x2="292" y2="220" stroke="white" stroke-width="3" opacity="0.3"/>
+  <line x1="182" y1="260" x2="298" y2="260" stroke="white" stroke-width="3" opacity="0.3"/>
+  <!-- Hat brim -->
+  <ellipse cx="240" cy="290" rx="62" ry="14" fill="#7209B7" opacity="0.9"/>
+  <!-- Hat tip star -->
+  <text x="228" y="102" font-size="24" fill="#FFD166">★</text>
+  <!-- Pompom at tip -->
+  <circle cx="240" cy="88" r="14" fill="#FFD166" opacity="0.9"/>
+  <circle cx="240" cy="88" r="8" fill="#F9C74F"/>
+
+  <!-- Confetti -->
+  <rect x="50" y="150" width="14" height="7" rx="2" fill="#F72585" opacity="0.8" transform="rotate(35,57,153)"/>
+  <rect x="390" y="160" width="14" height="7" rx="2" fill="#4361EE" opacity="0.8" transform="rotate(-25,397,163)"/>
+  <rect x="80" y="350" width="12" height="6" rx="2" fill="#FFD166" opacity="0.8" transform="rotate(50,86,353)"/>
+  <rect x="395" y="360" width="12" height="6" rx="2" fill="#90BE6D" opacity="0.8" transform="rotate(-40,401,363)"/>
+  <circle cx="55" cy="300" r="7" fill="#F72585" opacity="0.6"/>
+  <circle cx="430" cy="280" r="6" fill="#FFD166" opacity="0.7"/>
+  <circle cx="160" cy="380" r="5" fill="#4361EE" opacity="0.6"/>
+  <circle cx="320" cy="390" r="6" fill="#F72585" opacity="0.7"/>
+  <rect x="350" y="70" width="10" height="5" rx="2" fill="#F72585" opacity="0.7" transform="rotate(20,355,72)"/>
+  <rect x="120" y="80" width="10" height="5" rx="2" fill="#90BE6D" opacity="0.7" transform="rotate(-30,125,82)"/>
+  <rect x="440" y="430" width="11" height="5" rx="2" fill="#4361EE" opacity="0.6" transform="rotate(45,445,432)"/>
+  <rect x="35" y="430" width="11" height="5" rx="2" fill="#FFD166" opacity="0.6" transform="rotate(-20,40,432)"/>
+
+  <!-- Text -->
+  <text x="240" y="360" font-family="Georgia, serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#7209B7" letter-spacing="1">Happy Birthday!</text>
+  <text x="240" y="400" font-family="Georgia, serif" font-size="17" text-anchor="middle" fill="#F72585" opacity="0.9">Celebrate in style 🎊</text>
+</svg>

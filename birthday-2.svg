@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#FFFBF0"/>
+      <stop offset="100%" stop-color="#FFF0C0"/>
+    </radialGradient>
+  </defs>
+  <rect width="480" height="480" fill="url(#bg)" rx="16"/>
+
+  <!-- Cake body -->
+  <rect x="150" y="270" width="180" height="100" rx="12" fill="#F9C74F"/>
+  <rect x="150" y="270" width="180" height="18" rx="4" fill="#F3722C"/>
+  <!-- Frosting drips -->
+  <path d="M150 275 Q165 295 180 275 Q195 295 210 275 Q225 295 240 275 Q255 295 270 275 Q285 295 300 275 Q315 295 330 275" fill="none" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <!-- Cake layer 2 -->
+  <rect x="170" y="210" width="140" height="65" rx="10" fill="#90BE6D"/>
+  <rect x="170" y="210" width="140" height="16" rx="4" fill="#43AA8B"/>
+  <path d="M170 215 Q183 233 196 215 Q209 233 222 215 Q235 233 248 215 Q261 233 274 215 Q287 233 300 215 Q313 233 310 215" fill="none" stroke="white" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Candles -->
+  <rect x="210" y="175" width="12" height="38" rx="4" fill="#F94144"/>
+  <rect x="234" y="170" width="12" height="43" rx="4" fill="#577590"/>
+  <rect x="258" y="178" width="12" height="35" rx="4" fill="#F9C74F"/>
+  <!-- Flames -->
+  <ellipse cx="216" cy="170" rx="6" ry="9" fill="#FFD166" opacity="0.9"/>
+  <ellipse cx="216" cy="168" rx="3" ry="5" fill="#FF6B35" opacity="0.8"/>
+  <ellipse cx="240" cy="165" rx="6" ry="10" fill="#FFD166" opacity="0.9"/>
+  <ellipse cx="240" cy="163" rx="3" ry="6" fill="#FF6B35" opacity="0.8"/>
+  <ellipse cx="264" cy="173" rx="6" ry="9" fill="#FFD166" opacity="0.9"/>
+  <ellipse cx="264" cy="171" rx="3" ry="5" fill="#FF6B35" opacity="0.8"/>
+
+  <!-- Confetti scattered -->
+  <rect x="60" y="80" width="14" height="7" rx="2" fill="#F94144" opacity="0.8" transform="rotate(30,67,83)"/>
+  <rect x="380" y="100" width="14" height="7" rx="2" fill="#3A86FF" opacity="0.8" transform="rotate(-20,387,103)"/>
+  <rect x="100" y="300" width="12" height="6" rx="2" fill="#F9C74F" opacity="0.8" transform="rotate(50,106,303)"/>
+  <rect x="370" y="310" width="12" height="6" rx="2" fill="#90BE6D" opacity="0.8" transform="rotate(-40,376,313)"/>
+  <rect x="50" y="180" width="10" height="5" rx="2" fill="#577590" opacity="0.7" transform="rotate(15,55,182)"/>
+  <rect x="420" y="200" width="10" height="5" rx="2" fill="#F3722C" opacity="0.7" transform="rotate(-30,425,202)"/>
+  <circle cx="80" cy="130" r="7" fill="#F94144" opacity="0.6"/>
+  <circle cx="400" cy="150" r="6" fill="#A29BFE" opacity="0.7"/>
+  <circle cx="440" cy="280" r="5" fill="#F9C74F" opacity="0.8"/>
+  <circle cx="45" cy="380" r="6" fill="#90BE6D" opacity="0.6"/>
+  <circle cx="430" cy="390" r="7" fill="#F3722C" opacity="0.7"/>
+  <circle cx="240" cy="60" r="5" fill="#3A86FF" opacity="0.7"/>
+  <rect x="160" y="50" width="11" height="5" rx="2" fill="#FFD166" opacity="0.8" transform="rotate(25,165,52)"/>
+  <rect x="300" y="60" width="11" height="5" rx="2" fill="#F94144" opacity="0.8" transform="rotate(-15,305,62)"/>
+  <rect x="340" y="420" width="12" height="6" rx="2" fill="#A29BFE" opacity="0.7" transform="rotate(40,346,423)"/>
+  <rect x="110" y="410" width="12" height="6" rx="2" fill="#43AA8B" opacity="0.7" transform="rotate(-25,116,413)"/>
+
+  <!-- Stars -->
+  <text x="70" y="230" font-size="24" fill="#F9C74F" opacity="0.9">✦</text>
+  <text x="390" y="250" font-size="20" fill="#F94144" opacity="0.8">✦</text>
+  <text x="190" y="90" font-size="18" fill="#A29BFE" opacity="0.8">✦</text>
+  <text x="290" y="95" font-size="22" fill="#43AA8B" opacity="0.7">✦</text>
+
+  <!-- Text -->
+  <text x="240" y="420" font-family="Georgia, serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#C0392B" letter-spacing="1">Happy Birthday!</text>
+  <text x="240" y="455" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#E67E22" opacity="0.9">Make a wish 🕯️</text>
+</svg>
