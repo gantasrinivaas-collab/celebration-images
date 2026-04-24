@@ -1,0 +1,96 @@
+Create 10 square 480x480 greeting card images for “Work Anniversary” in a clean flat 2D vector illustration style.
+
+Overall style:
+- Modern, polished, corporate-safe, elegant, cheerful, professional.
+- Flat 2D vector illustration only.
+- No people, no faces, no hands, no characters.
+- No photorealism, no 3D, no textures, no mockups.
+- Crisp clean shapes, smooth edges, balanced composition.
+- Rounded card corners.
+- Each card should feel visually distinct, with a different theme and concept.
+- Keep the set cohesive in quality and layout, but do not make the cards look too similar to each other.
+
+Layout rules for every card:
+- Canvas size: 480 x 480 pixels, square.
+- Rounded rectangle card with soft corners.
+- Upper 75% is for the illustration only.
+- Bottom 25% is a dedicated text area only.
+- No illustration elements should overlap the text area.
+- Add a thin divider line separating the illustration area and the text area.
+- Main title on every card: “Work Anniversary”
+- Main title should be bold, modern, large, centered, and clearly readable.
+- Subtitle should be smaller, italic, centered, and clearly readable.
+- All text must be spelled perfectly and rendered clearly.
+- Include small accent elements in the illustration area such as stars, sparkles, dots, confetti, ribbons, or abstract decorative shapes.
+
+Create these 10 work anniversary card concepts:
+
+1. Theme: Growing Together
+- Background: deep teal or rich green.
+- Center illustration: a watering can pouring water onto a small growing plant with leaves.
+- Accent elements: tiny hearts, dots, stars, and sparkles.
+- Subtitle: “Growing together, thriving always”
+
+2. Theme: Guiding Light
+- Background: twilight purple or indigo.
+- Center illustration: a lighthouse with beams of light over stylized waves.
+- Accent elements: stars and sparkles.
+- Subtitle: “Your light guides our journey”
+
+3. Theme: Shared Journey
+- Background: strong blue.
+- Center illustration: a bicycle with a basket of flowers.
+- Accent elements: hearts, stars, and confetti.
+- Subtitle: “Thanks for the miles we’ve shared”
+
+4. Theme: Big Picture
+- Background: soft ivory or light beige.
+- Center illustration: colorful puzzle pieces fitting together.
+- Accent elements: confetti shapes and dots.
+- Subtitle: “You complete the big picture”
+
+5. Theme: New Possibilities
+- Background: deep blue or teal-night gradient.
+- Center illustration: an open door with light shining through and a small plant beside it.
+- Accent elements: stars and sparkles.
+- Subtitle: “Here’s to new doors and endless possibilities”
+
+6. Theme: Beacon of Excellence
+- Background: midnight blue or dark plum.
+- Center illustration: a glowing beacon or lantern.
+- Accent elements: stars, dots, and subtle bursts.
+- Subtitle: “You shine with excellence”
+
+7. Theme: Reaching New Heights
+- Background: warm sunrise gradient.
+- Center illustration: a staircase or path leading upward toward a shining sun.
+- Accent elements: sparkles and celebratory dots.
+- Subtitle: “Your journey keeps rising”
+
+8. Theme: Strong Foundations
+- Background: sophisticated navy or dusk purple.
+- Center illustration: a stylized bridge stretching across the card.
+- Accent elements: stars, dots, and celebratory accents.
+- Subtitle: “Building success, year after year”
+
+9. Theme: Lasting Impact
+- Background: earthy green or muted natural tone.
+- Center illustration: a stylized tree with strong roots and full leaves.
+- Accent elements: small stars and confetti.
+- Subtitle: “Rooted in dedication and growth”
+
+10. Theme: Woven Success
+- Background: warm neutral or muted coral/terracotta.
+- Center illustration: an abstract woven ribbon or interlocking pattern symbolizing teamwork and contribution.
+- Accent elements: dots, stars, and confetti.
+- Subtitle: “Your contributions strengthen us”
+
+Quality rules:
+- Flat 2D vector only.
+- Keep all cards elegant, clean, and brand new in concept.
+- Strong readability and high contrast in text.
+- No spelling mistakes.
+- No repeated icons from typical anniversary sets like rockets, trophies, medals, shields, crowns, books, balloons, or diamonds.
+- The 10 cards must look like a curated professional collection, but each concept must feel fresh and different.
+
+Make the final set look premium, consistent, and suitable for professional digital greeting cards.
