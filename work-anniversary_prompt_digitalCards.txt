@@ -1,96 +1,116 @@
-Create 10 square 480x480 greeting card images for “Work Anniversary” in a clean flat 2D vector illustration style.
+Create 10 square 480x480 premium work anniversary greeting card images.
 
-Overall style:
-- Modern, polished, corporate-safe, elegant, cheerful, professional.
-- Flat 2D vector illustration only.
+Style direction:
+- Premium, elegant, polished, corporate-safe.
+- Clean modern editorial illustration style with a refined vector-inspired look.
+- Use crisp shapes, smooth forms, subtle gradients, soft lighting, and sophisticated color palettes.
+- Do not make them look childish, overly cartoonish, generic clip-art, or template-like.
 - No people, no faces, no hands, no characters.
-- No photorealism, no 3D, no textures, no mockups.
-- Crisp clean shapes, smooth edges, balanced composition.
-- Rounded card corners.
-- Each card should feel visually distinct, with a different theme and concept.
-- Keep the set cohesive in quality and layout, but do not make the cards look too similar to each other.
+- No photorealism.
+- No messy textures or busy backgrounds.
+- The cards should feel like premium internal company recognition designs.
 
 Layout rules for every card:
-- Canvas size: 480 x 480 pixels, square.
-- Rounded rectangle card with soft corners.
-- Upper 75% is for the illustration only.
-- Bottom 25% is a dedicated text area only.
-- No illustration elements should overlap the text area.
-- Add a thin divider line separating the illustration area and the text area.
-- Main title on every card: “Work Anniversary”
-- Main title should be bold, modern, large, centered, and clearly readable.
-- Subtitle should be smaller, italic, centered, and clearly readable.
-- All text must be spelled perfectly and rendered clearly.
-- Include small accent elements in the illustration area such as stars, sparkles, dots, confetti, ribbons, or abstract decorative shapes.
+- Canvas size: 480 x 480 px, square.
+- Rounded rectangle card with soft rounded corners.
+- Top 72–75% of the card is for the illustration.
+- Bottom 25–28% is a dedicated text area only.
+- Add a thin elegant divider line between illustration area and text area.
+- Main title must be either:
+  - “Happy Work Anniversary” for warmer/friendlier cards
+  - OR “Celebrating Your Work Anniversary” for more formal/polished cards
+- Use whichever title best fits each concept.
+- Main title must be large, bold, centered, highly readable, modern sans-serif.
+- Subtitle must be smaller, centered, elegant, italic, and clearly readable.
+- Subtitle should be short and polished.
+- Do not let illustration elements overlap the text area.
 
-Create these 10 work anniversary card concepts:
+Visual direction:
+- Use refined color palettes such as navy, indigo, deep teal, sapphire blue, twilight purple, soft gold, ivory, cream, muted beige, elegant sky blue, dusk plum, or sunrise gradients.
+- Add subtle premium accent elements such as stars, sparkles, fine dots, small bursts, or confetti, but keep them tasteful and minimal.
+- The illustration should be the hero of each card.
 
-1. Theme: Growing Together
-- Background: deep teal or rich green.
-- Center illustration: a watering can pouring water onto a small growing plant with leaves.
-- Accent elements: tiny hearts, dots, stars, and sparkles.
-- Subtitle: “Growing together, thriving always”
+Important concept direction:
+- Avoid generic HR card ideas like simple tree icons or basic puzzle pieces unless they are transformed into a more premium and stylized concept.
+- Prefer strong, symbolic, premium visual metaphors such as:
+  - stairway to a star
+  - elegant suspension bridge
+  - golden pathway through hills
+  - monumental column or architectural archway
+  - interlocking rings or linked circles
+  - stylized monument with radiant star
+  - geometric cityscape or modular blocks
+  - compass or navigation symbol
+  - sunrise horizon
+  - sailing boat under stars
+  - balanced stone cairn
+  - beacon or lighthouse
+  - mountain summit
+  - abstract pathways
+  - constellation-like symbolic success motifs
 
-2. Theme: Guiding Light
-- Background: twilight purple or indigo.
-- Center illustration: a lighthouse with beams of light over stylized waves.
-- Accent elements: stars and sparkles.
-- Subtitle: “Your light guides our journey”
+Create the 10 cards using premium themes like these:
 
-3. Theme: Shared Journey
-- Background: strong blue.
-- Center illustration: a bicycle with a basket of flowers.
-- Accent elements: hearts, stars, and confetti.
-- Subtitle: “Thanks for the miles we’ve shared”
+1. Stairway to success
+- Title: Happy Work Anniversary
+- Illustration: white stairway rising through a bright blue sky toward a glowing gold star
+- Subtitle: “Reaching new heights together”
 
-4. Theme: Big Picture
-- Background: soft ivory or light beige.
-- Center illustration: colorful puzzle pieces fitting together.
-- Accent elements: confetti shapes and dots.
-- Subtitle: “You complete the big picture”
-
-5. Theme: New Possibilities
-- Background: deep blue or teal-night gradient.
-- Center illustration: an open door with light shining through and a small plant beside it.
-- Accent elements: stars and sparkles.
-- Subtitle: “Here’s to new doors and endless possibilities”
-
-6. Theme: Beacon of Excellence
-- Background: midnight blue or dark plum.
-- Center illustration: a glowing beacon or lantern.
-- Accent elements: stars, dots, and subtle bursts.
-- Subtitle: “You shine with excellence”
-
-7. Theme: Reaching New Heights
-- Background: warm sunrise gradient.
-- Center illustration: a staircase or path leading upward toward a shining sun.
-- Accent elements: sparkles and celebratory dots.
-- Subtitle: “Your journey keeps rising”
-
-8. Theme: Strong Foundations
-- Background: sophisticated navy or dusk purple.
-- Center illustration: a stylized bridge stretching across the card.
-- Accent elements: stars, dots, and celebratory accents.
+2. Elegant bridge
+- Title: Celebrating Your Work Anniversary
+- Illustration: premium suspension bridge at twilight with stars and subtle reflections
 - Subtitle: “Building success, year after year”
 
-9. Theme: Lasting Impact
-- Background: earthy green or muted natural tone.
-- Center illustration: a stylized tree with strong roots and full leaves.
-- Accent elements: small stars and confetti.
-- Subtitle: “Rooted in dedication and growth”
+3. Architectural archway
+- Title: Celebrating Your Work Anniversary
+- Illustration: grand stone archway with columns under a starry evening sky
+- Subtitle: “A milestone built on commitment”
 
-10. Theme: Woven Success
-- Background: warm neutral or muted coral/terracotta.
-- Center illustration: an abstract woven ribbon or interlocking pattern symbolizing teamwork and contribution.
-- Accent elements: dots, stars, and confetti.
-- Subtitle: “Your contributions strengthen us”
+4. Interlocking rings
+- Title: Happy Work Anniversary
+- Illustration: elegant linked rings in navy, white, and gold with subtle celebratory sparkles
+- Subtitle: “Stronger together because of you”
 
-Quality rules:
-- Flat 2D vector only.
-- Keep all cards elegant, clean, and brand new in concept.
-- Strong readability and high contrast in text.
-- No spelling mistakes.
-- No repeated icons from typical anniversary sets like rockets, trophies, medals, shields, crowns, books, balloons, or diamonds.
-- The 10 cards must look like a curated professional collection, but each concept must feel fresh and different.
+5. Golden road
+- Title: Happy Work Anniversary
+- Illustration: glowing golden road winding through rolling hills toward a bright horizon
+- Subtitle: “A journey shaped by excellence”
 
-Make the final set look premium, consistent, and suitable for professional digital greeting cards.
+6. Monument with radiant star
+- Title: Celebrating Your Work Anniversary
+- Illustration: tall stylized monument with a radiant gold star at the top against a twilight sky
+- Subtitle: “Celebrating your continued success”
+
+7. Geometric contribution blocks
+- Title: Happy Work Anniversary
+- Illustration: stacked geometric blocks or city-like forms with a gold star above
+- Subtitle: “Every contribution matters”
+
+8. Sailing journey
+- Title: Celebrating Your Work Anniversary
+- Illustration: elegant sailboat on calm waters beneath a starry sky
+- Subtitle: “A celebration of your journey”
+
+9. Mountain summit
+- Title: Happy Work Anniversary
+- Illustration: refined mountain peak with a trail or flag, premium dusk or dawn palette
+- Subtitle: “Rising higher with every year”
+
+10. Compass / navigation
+- Title: Celebrating Your Work Anniversary
+- Illustration: elegant compass or navigation emblem in navy and gold
+- Subtitle: “Navigating success with purpose”
+
+Text quality rules:
+- All text must be spelled perfectly.
+- All text must be sharp, readable, and well-centered.
+- Keep subtitles elegant and concise.
+- Use high contrast between text and background.
+
+Overall quality rules:
+- Premium corporate greeting card aesthetic.
+- Cohesive set, but each card should feel distinct.
+- Elegant, tasteful, modern, and professional.
+- No generic-looking icons.
+- No crowded compositions.
+- No low-quality decorative clutter.
